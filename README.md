@@ -1,2 +1,1 @@
-# git-playground
-practice of git &amp; github
+사이트 제목 삭제
